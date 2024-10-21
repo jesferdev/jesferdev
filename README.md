@@ -1,7 +1,5 @@
 # Hola, Soy Jesfer 👋
 
-![]
-
 **💻 Ingeniero de Sistemas y Computación, con más de 2 años de experiencia en Desarollo de Software 😼**.
 
 - 🎓 Titulado en Ingiería de Sistemas y Computación en Perú.
