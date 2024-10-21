@@ -13,7 +13,7 @@
   <i>Pongámonos en contacto 😉.</i>
 
 <p align="center">
-<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://github.com/halfrost/Halfrost-Field/"><img src="https://img.icons8.com/?size=100&id=8bVNpI807DcA&format=png&color=000000"/></a>
 <a href= "https://www.linkedin.com/in/halffrost/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://halfrost.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
 </p>
