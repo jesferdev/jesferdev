@@ -13,8 +13,9 @@
   <i>Pongámonos en contacto 😉.</i>
 
 <p align="center">
-<a href= "https://jesfer.dev"><img src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000"/></a>
-<a href= "https://www.linkedin.com/in/jesferlujan/"><img src="https://img.icons8.com/?size=100&id=114445&format=png&color=000000"/></a>
+<a href= "https://jesfer.dev"><img src="https://img.icons8.com/?size=50&id=8bVNpI807DcA&format=png&color=000000"/></a>
+<a href= "https://www.linkedin.com/in/jesferlujan/"><img src="https://img.icons8.com/?size=50&id=114445&format=png&color=000000"/></a>
+<a href= "mailto:jesferlujan@gmail.com"><img src="https://img.icons8.com/?size=50&id=YrXy82StfwT9&format=png&color=000000"/></a>
 
 
 </p>
