@@ -3,7 +3,7 @@
 **💻 Ingeniero de Sistemas y Computación, con 3 años de experiencia en Desarollo de Software 😼**.
 
 - 🎓 Titulado en Ingiería de Sistemas y Computación en Perú.
-- 💻 Más de 2 años de experiancia en desarrollo de software princiapalmente con Javascript, Python y Java.
+- 💻 3 años de experiancia en desarrollo de software princiapalmente con Javascript, Python y Java.
 - 💡Conocimiento en automatizacion de procesos mediante Bots RPA.
 
 <hr>
